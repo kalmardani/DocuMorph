@@ -1,0 +1,6 @@
+{
+  "name": "DocuMorph AI",
+  "description": "A powerful AI-driven document converter. Seamlessly convert PDF to Word and Word to PDF using Gemini to preserve context and formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
